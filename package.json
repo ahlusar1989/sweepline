@@ -1,6 +1,6 @@
 {
   "name": "bentley-ottman",
-  "version":  "0.2.7",
+  "version": "0.2.7",
   "description": "Bentley-Ottman Algorithm for Validating Self-Intersections in Polygons",
   "main": "index.js",
   "engines": {
@@ -20,9 +20,10 @@
     "geometry"
   ],
   "authors": [
-    "Simon Tokumine (Original Author)", 
+    "Simon Tokumine (Original Author)",
     "Saran Ahluwalia <saran.ahluwalia@socialtables.com> (https://github.com/ahlusar1989)",
-    "Calvin Metcalf", "Saint Scott"
+    "Calvin Metcalf",
+    "Saint Scott"
   ],
   "license": "ISC",
   "bugs": {
@@ -31,6 +32,6 @@
   "homepage": "https://github.com/ahlusar1989/sweepline#readme",
   "dependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^5.0.3"
   }
 }
